@@ -22,7 +22,7 @@ social:
     - icon: fa-facebook
       link: "https://www.facebook.com/profile.php?id=100009357917247"
     - icon: fa-youtube
-     link: "https://youtube.com/"
+      link: "https://youtube.com"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/amin-h-shandiz-0b40561a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo5J355NiQj26q7NfHvp2%2Fg%3D%3D"
     # - icon: fa-stack-exchange
