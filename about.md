@@ -10,5 +10,5 @@ I am currently at Hungary and working On speech parts of Artificial INtelligence
 Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://docs.google.com/viewer?srcid=1lOG4iqKmt4EEfMgBz5bJBwCJgscxnG41&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="200px" height="480px"></iframe>
+<iframe src="https://docs.google.com/viewer?srcid=1lOG4iqKmt4EEfMgBz5bJBwCJgscxnG41&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="700px" height="480px"></iframe>
 
