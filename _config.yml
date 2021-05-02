@@ -29,7 +29,7 @@ social:
     #   link: "#"
     - icon: fa-github
       link: "https://github.com/AminHonarmandiShandiz"
-    - icon: fa-researchgate
+    - icon: ai-researchgate
       link: "https://www.researchgate.net/profile/Amin_Honarmandi_Shandiz"
 
 share:
@@ -41,10 +41,10 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
-    - text: Blogs
-      url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
+#     - text: Blogs
+#       url: /blogs/
+#     - text: XML Feed
+#       url: /feed.xml
 # url: "http://localhost:4000"
 url: "https://aminhonarmandishandiz.github.io"
 baseurl: ""
