@@ -29,7 +29,7 @@ social:
     #   link: "#"
     - icon: fa-github
       link: "https://github.com/AminHonarmandiShandiz"
-    - icon: ai-researchgate
+    - icon: fa-researchgate
       link: "https://www.researchgate.net/profile/Amin_Honarmandi_Shandiz"
 
 share:
