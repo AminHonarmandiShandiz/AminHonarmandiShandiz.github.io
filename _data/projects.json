@@ -1,4 +1,12 @@
-[
+[	{
+		"slug": "SSI-3DCNN",
+		"name": "3D CNN -Silent Speech Interface",
+		"image": "3dcnn.jpg",
+		"url": "https://www.researchgate.net/publication/351095505_3D_Convolutional_Neural_Networks_for_Ultrasound-Based_Silent_Speech_Interfaces",
+		"date": "september2019",
+		"tags": ["Matlab", "Python", "Colab","Pycharm"]
+	
+	},
 	{
 		"slug": "etrucking-soft",
 		"name": "Etrucking Software",
